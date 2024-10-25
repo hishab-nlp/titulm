@@ -34,6 +34,7 @@ __Gemma 2 2B__
 ### Generation using transformers
 
 ```python
+# pip install transformers
 import torch
 from transformers import pipeline
 
@@ -50,7 +51,7 @@ pipe("আমাদের দেশের নাম")
 ```
 
 ## Benchmark
-- Clone the [lm-evaluation-harness](https://github.com/hishab-nlp/lm-evaluation-harness) repository.
+- Clone the forked version of [lm-evaluation-harness](https://github.com/hishab-nlp/lm-evaluation-harness) repository.
 - Now run the following commands to evaluate the models.
 - Pass required arguments according to your needs.
 
