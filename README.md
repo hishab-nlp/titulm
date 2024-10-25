@@ -1,4 +1,7 @@
 # TituLM
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-TituLM-blue)](https://huggingface.co/hishab)
+
+
 TituLM is a collection of open source LLMs trained by Hishab for the purpose of better language understanding and generation capabilities. At Hishab, we are pushing the boundaries of what is possible with LLMs for product development. According to this pipeline we are pretraining and finetuning models on a variety of tasks to improve the capabilities of the models. Although TituLM is not bound to any specific language but it mostly focuses on Bangla language.
 
 ## Models
